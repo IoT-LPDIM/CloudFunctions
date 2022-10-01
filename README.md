@@ -1,4 +1,9 @@
-# IoT Function
+# CloudFunctions
+
+## Overview
+
+This repository contains a collection of Cloud Functions for use with the [Google Cloud Functions](https://cloud.google.com/functions/) service.
+This is the cloud part of the project IoT-LPDIM.
 
 Access to the GCP function page :
 [https://console.cloud.google.com/functions/list?project=iot-lpdim](https://console.cloud.google.com/functions/list?project=iot-lpdim)
